@@ -183,7 +183,6 @@ const HeroSection = () => {
             "TypeScript",
             "Tailwind",
             "Supabase",
-            "Gemini API",
           ].map((tech) => (
             <span
               key={tech}
@@ -199,7 +198,7 @@ const HeroSection = () => {
           {[
             {
               Icon: Github,
-              href: "https://github.com/aaruhyakumar",
+              href: "https://github.com/aaruhya06",
               label: "GitHub",
             },
             {
