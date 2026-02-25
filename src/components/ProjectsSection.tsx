@@ -10,7 +10,7 @@ const projects = [
     description:
       "AI-powered learning platform designed specifically for students, leveraging generative intelligence to simplify complex concepts and enhance self-paced learning.",
     tags: ["React.js", "Gemini API", "Node.js", "Tailwind", "Supabase"],
-    githubUrl: "https://github.com/aaruhyakumar",
+    githubUrl: "https://github.com/aaruhya06",
     liveUrl: "#",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description:
       "Bridging the gap between learning and employability through verified skills and real-world projects. A holistic platform for career growth and skill validation.",
     tags: ["React.js", "Supabase", "Node.js", "Tailwind", "Gemini API"],
-    githubUrl: "https://github.com/aaruhyakumar",
+    githubUrl: "https://github.com/aaruhya06",
     liveUrl: "#",
   },
 ];

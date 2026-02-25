@@ -9,7 +9,7 @@ const Finale = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/aaruhyakumar", label: "GitHub" },
+    { icon: Github, href: "https://github.com/aaruhya06", label: "GitHub" },
     {
       icon: Linkedin,
       href: "https://www.linkedin.com/in/aaruhya-kumar-29a5a731b/",
@@ -17,7 +17,7 @@ const Finale = () => {
     },
     {
       icon: Mail,
-      href: "mailto:aaruhyakumar6@gmail.com",
+      href: "mailto:aaruhyakumar@gmail.com",
       label: "Email",
     },
   ];

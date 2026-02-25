@@ -22,7 +22,7 @@ const ContactSection = () => {
   };
 
   const copyEmail = () => {
-    navigator.clipboard.writeText("aaruhyakumar6@gmail.com");
+    navigator.clipboard.writeText("aaruhyakumar@gmail.com");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -83,7 +83,7 @@ const ContactSection = () => {
             </p>
             <div className="flex gap-4">
               {[
-                { Icon: Github, href: "https://github.com/aaruhyakumar" },
+                { Icon: Github, href: "https://github.com/aaruhya06" },
                 { Icon: Linkedin, href: "https://www.linkedin.com/in/aaruhya-kumar-29a5a731b/" },
               ].map(({ Icon, href }, i) => (
                 <a

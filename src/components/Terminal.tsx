@@ -115,10 +115,10 @@ const Terminal = () => {
             <p>
               Email:{" "}
               <a
-                href="mailto:aaruhyakumar6@gmail.com"
+                href="mailto:aaruhyakumar@gmail.com"
                 className="text-blue-400 hover:underline"
               >
-                aaruhyakumar6@gmail.com
+                aaruhyakumar@gmail.com
               </a>
             </p>
             <p>
@@ -135,12 +135,12 @@ const Terminal = () => {
             <p>
               GitHub:{" "}
               <a
-                href="https://github.com/aaruhyakumar"
+                href="https://github.com/aaruhya06"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:underline"
               >
-                github.com/aaruhyakumar
+                github.com/aaruhya06
               </a>
             </p>
           </div>

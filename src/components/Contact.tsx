@@ -9,7 +9,7 @@ export const Contact = () => {
                     <div>
                         <p className="text-2xl font-bold mb-8 uppercase">Currently available for high-impact collaborations and architectural challenges.</p>
                         <div className="space-y-4">
-                            <ContactLink icon={<Mail size={20} />} label="Email" value="nidigantiak@gmail.com" href="mailto:nidigantiak@gmail.com" />
+                            <ContactLink icon={<Mail size={20} />} label="Email" value="aaruhyakumar@gmail.com" href="mailto:aaruhyakumar@gmail.com" />
                             <ContactLink icon={<Github size={20} />} label="GitHub" value="@aaruhya06" href="https://github.com/aaruhya06" isExternal />
                             <ContactLink icon={<Linkedin size={20} />} label="LinkedIn" value="in/aaruhya" href="https://www.linkedin.com/in/aaruhya-kumar-1287b9329" isExternal />
                         </div>

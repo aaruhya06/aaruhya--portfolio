@@ -208,7 +208,7 @@ const HeroSection = () => {
             },
             {
               Icon: Mail,
-              href: "mailto:aaruhyakumar6@gmail.com",
+              href: "mailto:aaruhyakumar@gmail.com",
               label: "Email",
             },
           ].map(({ Icon, href, label }, i) => (
